@@ -70,4 +70,4 @@ To find out more about Prism and how mocking can be used to streamline your API 
 
 ## Bring Your Own Repository
 
-Since Studio works with your local filesystem, you can open up your API projects and start adding docs and designs alongside the actual implementation they are meant to describe. Once you're done, check it all into Git with your favorite Git client!
+Since Studio works with your local filesystem, you can open up your API projects and start adding/updating descriptions (and docs) alongside the actual implementation. Once you're done you can commit changes back to Git with your favorite Git client, or use the one built into Studio!
